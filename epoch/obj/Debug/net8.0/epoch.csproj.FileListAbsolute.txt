@@ -1,0 +1,15 @@
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\bin\Debug\net8.0\epoch.exe
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\bin\Debug\net8.0\epoch.deps.json
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\bin\Debug\net8.0\epoch.runtimeconfig.json
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\bin\Debug\net8.0\epoch.dll
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\bin\Debug\net8.0\epoch.pdb
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.AssemblyInfoInputs.cache
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.AssemblyInfo.cs
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.csproj.CoreCompileInputs.cache
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.sourcelink.json
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.dll
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\refint\epoch.dll
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.pdb
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\epoch.genruntimeconfig.cache
+C:\Users\idaly\Documents\1.Semester\Objprog\OOP\epoch\obj\Debug\net8.0\ref\epoch.dll
